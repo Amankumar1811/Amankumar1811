@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Aman kumar !<br>I'm a passionate developer with a love for building efficient, scalable, and impactful software.<br> Whether it's front-end interfaces, back-end systems, or automation scripts, <br>I enjoy turning ideas into reality through clean and maintainable code.<br><br>
+👋 Hi there, I'm Aman kumar !<br>I'm a passionate developer with a love for building efficient, scalable, and impactful software.<br> Whether it's front-end interfaces, back-end systems, or automation scripts,I enjoy turning ideas into reality through clean and maintainable code.<br><br>
 
 
 ## 🌐 Socials:
